@@ -1,6 +1,6 @@
 /** @format */
 
-export default `# [Arya](https://markdown.lovejade.cn/?utm_source=markdown.lovejade.cn&pid=about-arya) - 在线 Markdown 编辑器
+export default `# Arya - 在线 Markdown 编辑器
 
 Arya，是一款基于 [Vue2](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada)、[Vditor](https://github.com/Vanessa219/vditor)，为未来而构建的在线 [Markdown](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/markdown-tutorial.md) 编辑器；轻量且强大：内置粘贴 HTML 自动转换为 Markdown，支持流程图、甘特图、时序图、任务列表，可导出携带样式的图片、PDF、微信公众号特制的 HTML 等等。
 
