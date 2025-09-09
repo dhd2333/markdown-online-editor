@@ -17,7 +17,7 @@
           target="_blank"
           rel="noopener"
         >
-          <span class="hint--bottom" aria-label="部署人 Github">
+          <span class="hint--bottom" aria-label="部署者 Github">
             <icon class="header-icon" name="github" />
           </span>
         </a>
