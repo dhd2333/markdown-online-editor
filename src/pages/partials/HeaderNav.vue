@@ -12,39 +12,12 @@
       <nav class="button-group">
         <a
           v-if="!isMobile"
-          href="https://wechat.jeffjade.com/"
+          href="https://github.com/dhd2333"
           class="header-link"
           target="_blank"
           rel="noopener"
         >
-          <span class="hint--bottom" aria-label="公众号 Markdown 排版">
-            <icon class="header-icon" name="wechat" />
-          </span>
-        </a>
-        <a href="https://www.niceshare.site/" class="header-link" target="_blank" rel="noopener">
-          <span class="hint--bottom" aria-label="逍遥自在轩">
-            <icon class="header-icon" name="homepage" />
-          </span>
-        </a>
-        <a
-          v-if="!isMobile"
-          href="https://x.com/MarshalXuan"
-          class="header-link"
-          target="_blank"
-          rel="noopener"
-        >
-          <span class="hint--bottom" aria-label="X - 轩帅">
-            <icon class="header-icon" name="x" />
-          </span>
-        </a>
-        <a
-          v-if="!isMobile"
-          href="https://github.com/nicejade"
-          class="header-link"
-          target="_blank"
-          rel="noopener"
-        >
-          <span class="hint--bottom" aria-label="作者 Github">
+          <span class="hint--bottom" aria-label="部署人 Github">
             <icon class="header-icon" name="github" />
           </span>
         </a>
